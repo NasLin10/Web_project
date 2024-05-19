@@ -1,6 +1,7 @@
 # Web_project
 
 Видео, по которым создавалась нейронная сеть:
+
 https://www.youtube.com/watch?v=1quKqf47V6s&ab_channel=ХаудиХо™-ПростоомиреIT!
 
 https://www.youtube.com/watch?v=8mkh4uGxNfo&t&ab_channel=Etudarium
